@@ -15,7 +15,7 @@ chroma_db/
 data/vector_db/
 *.log
 
-# Streamlit Cache
+# Streamlit Cache and secrets
 .streamlit/
 
 # Generated analysis output
