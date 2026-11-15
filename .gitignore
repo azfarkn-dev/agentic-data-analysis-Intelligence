@@ -1,0 +1,22 @@
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+.env
+.env.*
+!.env.example
+
+# Local Databases & Vector Stores
+analytics.duckdb
+chroma_db/
+data/vector_db/
+*.log
+
+# Streamlit Cache
+.streamlit/
+
+# Generated analysis output
+outputs/charts/
